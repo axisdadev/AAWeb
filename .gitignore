@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime
+dist/
+build/
+.cache/
+.pnpm-store/
+
+# VSCode settings
+.vscode/
+
+# Optional: lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
